@@ -1,0 +1,212 @@
+[
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following objects is NOT present in the scene?\n\nA. A large wooden cabinet\nB. A cast iron skillet\nC. A chandelier\nD. A wooden rack"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_1"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of scene is this?\n\nA. Bedroom\nB. Living Room\nC. Kitchen\nD. Bathroom"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_2"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object in the scene is unreasonable or out of place?\n\nA. Cupboard\nB. Frying pan\nC. Shelf\nD. Sauce bottle"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_4"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is positioned in the center of the cabinet?\n\nA. Copper pot\nB. Sauce bottle\nC. Shelf\nD. Iron pan"
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "question_type": "question_5"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is closest to the wood cabinet?\n\nA. Six bottles\nB. Three copper pots\nC. Iron pan\nD. Wood rack"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_6_closest"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is farthest from the cupboard?\n\nA. Six bottles\nB. Frying pan\nC. Iron pan\nD. Cupboard"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_farthest"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the wooden cabinet and facing the wooden cabinet, where are the six bottles of condiments?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_front"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the frying pan larger or smaller than the central object (wood cabinet)?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_smaller"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is cloest to the bottles?\n\nA. Wood Cabinet\nB. Frying Pan\nC. Copper pots\nD. Shelf"
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "question_type": "question_7"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is closest to the copper pot?\n\nA. Iron pan\nB. Spice bottles\nC. Wood cabinet\nD. Shelf"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_8_closest"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is farthest from the bottles?\n\nA. Hanging copper pot\nB. Wood cabinet\nC. Iron pan\nD. Shelf"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_farthest"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the wooden cabinet larger or smaller than the copper pot?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_larger"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the copper pot and facing the wooden cabinet, where is the seasoning container?\n\nA. To the left\nB. To the right"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_left"
+  },
+  {
+    "object_id": "Kitchen_3",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the copper pot larger or smaller than the wooden cabinet?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_8_smaller"
+  }
+]

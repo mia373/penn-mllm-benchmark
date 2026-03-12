@@ -1,0 +1,257 @@
+[
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following objects is NOT present in the scene?\n\nA. A buoy\nB. A stack of books\nC. A bicycle\nD. A woven basket"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_1"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of scene is this?\n\nA. Shoreline adjacent to a tribal village\nB. Mountain landscape\nC. Urban cityscape\nD. Desert oasis"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_2"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object in the scene is unreasonable or out of place?\n\nA. Totem pole\nB. Pottery\nC. Canoe\nD. Woven basket"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_4"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the totem pole and facing the canoe, where is the stack of books?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_back"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is closest to the totem pole?\n\nA. Basket\nB. Canoe\nC. Buoy\nD. Books"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_closest"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is farthest from the totem pole?\n\nA. Books\nB. Basket\nC. Pottery\nD. Canoe"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_farthest"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the totem pole and facing the canoe, where is the canoe?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_front"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the canoe larger or smaller than the totem pole?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_larger"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the totem pole and facing the canoe, where is the pottery?\n\nA. To the right\nB. To the left"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_left"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the buoy larger or smaller than the canoe?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_smaller"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is located at the corners of the scene?\n\nA. Pottery\nB. Canoe\nC. Buoy\nD. Books"
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "question_type": "question_7"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the canoe and facing the totem pole, where is the stack of books?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_back"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is closest to the buoy?\n\nA. Totem pole\nB. Canoe\nC. Pottery\nD. Books"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_8_closest"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is farthest from the canoe?\n\nA. Pottery\nB. Totem pole\nC. Basket\nD. Buoy"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_8_farthest"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the canoe and facing the totem pole, where is the totem pole?\n\nA. Behind\nB. In front"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_8_front"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the canoe larger or smaller than the pottery?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_larger"
+  },
+  {
+    "object_id": "Theater_10",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the canoe and facing the totem pole, where is the pottery?\n\nA. To the left\nB. To the right"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_8_left"
+  }
+]

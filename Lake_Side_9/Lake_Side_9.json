@@ -1,0 +1,272 @@
+[
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following objects is NOT present in the scene?\n\nA. A red boat\nB. A blue airplane\nC. A white refrigerator\nD. Five chairs"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_1"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following objects is NOT present in the scene?\n\nA. Red kayak\nB. Wooden picnic table\nC. Green beach ball\nD. Adirondack chairs"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_1"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of scene is this?\n\nA. Outdoor leisure area\nB. Office space\nC. Kitchen\nD. Library"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_2"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is positioned in the center of the scene?\n\nA. White refrigerator\nB. Table\nC. Boat\nD. Chair"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_5"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is positioned in the center of the scene?\n\nA. Adirondack chair\nB. Kayak\nC. Picnic table\nD. Green mat"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_5"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is closest to the red kayak?\n\nA. Adirondack chairs\nB. Picnic table\nC. White refrigerator\nD. Blue tarp"
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "question_type": "question_6_closest"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is farthest from the red kayak?\n\nA. Picnic table\nB. White refrigerator\nC. Adirondack chairs\nD. Green mat"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_farthest"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the red boat and facing the five chairs, where is the white refrigerator?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_front"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the white refrigerator larger or smaller than the red boat?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_larger"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the set of five chairs larger or smaller than the red boat?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_smaller"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is located at the corners of the scene?\n\nA. White refrigerator\nB. Picnic table\nC. Kayak\nD. Blue tarp"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_7"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is closest to the five chairs?\n\nA. Kayak\nB. White refrigerator\nC. Picnic table\nD. Blue Tarp"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_closest"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is farthest from the five chairs?\n\nA. Blue Tarp\nB. White refrigerator\nC. Kayak\nD. Picnic table"
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "question_type": "question_8_farthest"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the red boat and facing the five chairs, where are the five chairs?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_front"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the red ship larger or smaller than the five chairs?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_8_larger"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the red boat and facing the five chairs, where is the storage equipment like a freezer?\n\nA. To the left\nB. To the right"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_8_left"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the red boat and facing the five chairs, where is the picnic table?\n\nA. To the right\nB. To the left"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_right"
+  },
+  {
+    "object_id": "Lake_Side_9",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the set of five chairs larger or smaller than the blue tarp?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_smaller"
+  }
+]

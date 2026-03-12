@@ -1,0 +1,512 @@
+[
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following objects is NOT present in the scene?\n\nA. Lamp\nB. Chair\nC. Sofa\nD. Plant"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_1"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following objects is NOT present in the scene?\n\nA. A coffee table\nB. A bookshelf\nC. A sculpture\nD. A plant"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_1"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of scene is this?\n\nA. Bedroom\nB. Kitchen\nC. Living room\nD. Dining room"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_2"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of scene is this?\n\nA. Bedroom\nB. Kitchen\nC. Living room\nD. Bathroom"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_2"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object in the scene is unreasonable or out of place?\n\nA. Plant\nB. Sculpture\nC. Sofa\nD. Pot"
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "question_type": "question_4"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object in the scene is unreasonable or out of place?\n\nA. Pot\nB. Sofa\nC. Plant\nD. Coffee table"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_4"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is positioned in the center of the scene?\n\nA. Coffee table\nB. Sofa\nC. Plant\nD. Chairs"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_5"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is positioned in the center of the coffee table?\n\nA. Pot\nB. Sofa\nC. Plant\nD. Sculpture"
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "question_type": "question_5"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the marble table and facing the plant, where is the pair of ceramic jars?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_back"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is closest to the marble table?\n\nA. Sofa\nB. Plant\nC. Sculpture\nD. Pot"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_6_closest"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is closest to the coffee table?\n\nA. Sculpture\nB. Sofa\nC. Plant\nD. Chair"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_closest"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is farthest from the marble table?\n\nA. Sofa\nB. Plant\nC. Sculpture\nD. Pots"
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "question_type": "question_6_farthest"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is farthest from the coffee table?\n\nA. Plant\nB. Sculpture\nC. Sofa\nD. Chair"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_farthest"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the marble table and facing the sofa, where is the green plant?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_front"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the coffee table and facing the sofa, where is the sculpture?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_front"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the sofa larger or smaller than the marble table?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_larger"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the marble table and facing the sofa, where are the two black plastic chairs?\n\nA. To the left\nB. To the right"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_left"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the marble table and facing the sofa, where is the green plant?\n\nA. To the right\nB. To the left"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_right"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the set of two chairs larger or smaller than the marble table?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_6_smaller"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the sculpture larger or smaller than the coffee table?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_6_smaller"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is located at the corners of the scene?\n\nA. Sculpture\nB. Chair\nC. Sofa\nD. Pot"
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "question_type": "question_7"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is located at the corners of the scene?\n\nA. Coffee table\nB. Plant\nC. Sculpture\nD. Sofa"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_7"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is closest to the woven pot?\n\nA. Coffee table\nB. Plant\nC. Sculpture\nD. Sofa"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_closest"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is closest to the plant?\n\nA. Sculpture\nB. Sofa\nC. Coffee table\nD. Chair"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_8_closest"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is farthest from the woven pot?\n\nA. Coffee table\nB. Sofa\nC. Plant\nD. Sculpture"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_8_farthest"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which object is farthest from the plant?\n\nA. Sofa\nB. Chair\nC. Pots\nD. Coffee table"
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "question_type": "question_8_farthest"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the woven pot and facing the chairs, where is the coffee table and sculpture?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_front"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the plant in the corner of the room and facing the coffee table, where is the sofa?\n\nA. In front\nB. Behind"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_front"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the sofa larger or smaller than the woven jar?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_larger"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the plant larger or smaller than the sculpture?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_larger"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the woven jar and facing the coffee table, where is the pair of chairs?\n\nA. To the right\nB. To the left"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_8_left"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the woven pot and facing the chairs, where is the coffee table?\n\nA. To the right\nB. To the left"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_right"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you are standing at the plant in the corner of the room and facing the coffee table, where are the chairs?\n\nA. To the right\nB. To the left"
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "question_type": "question_8_right"
+  },
+  {
+    "object_id": "Living_Room_14",
+    "conversation_type": "single_round",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the plant larger or smaller than the sofa?\n\nA. Larger\nB. Smaller"
+      },
+      {
+        "from": "gpt",
+        "value": "B"
+      }
+    ],
+    "question_type": "question_8_smaller"
+  }
+]
