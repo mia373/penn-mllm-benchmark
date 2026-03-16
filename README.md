@@ -7,7 +7,7 @@ Collaborated with PhD researchers under **Dr. Chris Callison-Burch** at the Univ
 - Reviewed and corrected ~85 VLM-generated multiple-choice QA pairs across 5 diverse 3D scenes (classroom, kitchen, living room, theater, lakeside)
 - Identified and eliminated **hallucinated** answer options and incorrect ground-truth labels introduced by the generative model
 - Applied a structured correction protocol to ensure each question had exactly one unambiguous correct answer, preventing **dataset pollution**
-- Inspected 3D scenes interactively using Babylon.js to make evidence-based annotation decisions
+- Inspected 3D scenes interactively using Babylon.js (https://sandbox.babylonjs.com/) to make evidence-based annotation decisions
 
 ## Why It Matters
 
